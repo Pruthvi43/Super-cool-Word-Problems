@@ -1,3 +1,6 @@
+// Project Name: Math Function labs
+// Name: Pruthvi
+// Date: 3/18/26
 #include <cmath>
 #include <iostream>
 using namespace std;
@@ -29,7 +32,7 @@ int length = 30;
 
 float volume = pow(30,3);
 
-cout << "John Doe's brin has the volume of " << volume << " cubic inches" << endl;
+cout << "John Doe's brain has the volume of " << volume << " cubic inches" << endl;
 
 
 
